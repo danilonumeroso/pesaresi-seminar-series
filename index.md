@@ -7,7 +7,7 @@ create connections and opportunities for collaborations among them and faculty m
 If you're interested in giving a seminar, you can reach out to me at *danilo [dot] numeroso [at] phd [dot] unipi [dot] it* or to Laura Bussi
 at *laura [dot] bussi [at] phd [dot] unipi [dot] it*.
 
-## Schedule (Draft)
+## Schedule
 
 **1- Combinatorial properties of degree sequences of 3-uniform hypergraphs arising from saind arrays**
 
