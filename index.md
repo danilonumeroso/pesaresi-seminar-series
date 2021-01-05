@@ -28,7 +28,14 @@ We define bijections between the *V<sub>n</sub>* arrays and the above mentioned 
 
 In recent years, many companies and private users have taken advantage of cloud services to store large collections of data, with a huge saving on infrastructure and maintenance costs. Therefore, each time a user wants to retrieve information from the cloud it needs to issue a query and contact the cloud provider, which manages the data collectionon behalf of the owner. In this scenario, however, nothing prevents the provider from sending back tampered or incomplete results. As a consequence,all users must be able to detect any inconsistency in what they receive. This problem is known in the literature as authenticated query processing and its solution hinges on the design of efficient algorithms and cryptographic protocols for data retrieval and authentication. In this talk we will explore some state-of-the-art techniques to address it and discuss some of the challenges we must face when dealing with query processing in the context of blockchain environments.
 
-**3- 29/01/2021**
+**3- Computational design of metamaterials for achieving desired mechanical properties in digitally-fabricated shapes**
+
+*Iason Manolas, 29/01/2021, 15:00-16:00*
+
+The ability to manufacture objects was a turning point in human history. Nowadays digital fabrication provides new means for the realization of highly complex shapes.
+When constructing a physical object, besides manufacturing a specific shape, users often want to achieve specific mechanical properties such as rigidity, weight, deformation behavior and so on.
+A way for achieving desired effective properties, is by computationally designing mechanical metamaterials. Metamaterials are artificial structures with mechanical properties determined by their structure rather than their composition. Designing such metamaterial structures by hand quickly becomes infeasible as the size and complexity of the shape increases. Thus, such materials are accompanied by the need for computational methods that can generate them.
+In this talk we discuss the development of a computational framework able to design metamaterials for achieving desired mechanical properties in digitally-fabricated objects.
 
 **4- 05/02/2021**
 
