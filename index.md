@@ -37,7 +37,15 @@ When constructing a physical object, besides manufacturing a specific shape, use
 A way for achieving desired effective properties, is by computationally designing mechanical metamaterials. Metamaterials are artificial structures with mechanical properties determined by their structure rather than their composition. Designing such metamaterial structures by hand quickly becomes infeasible as the size and complexity of the shape increases. Thus, such materials are accompanied by the need for computational methods that can generate them.
 In this talk we discuss the development of a computational framework able to design metamaterials for achieving desired mechanical properties in digitally-fabricated objects.
 
-**4- 05/02/2021**
+**4- Neural Patient: A neural approach to multimodal patient data representation** ([link](https://teams.microsoft.com/l/meetup-join/19%3a0b2efda5150a4a2a862bdf970b314927%40thread.tacv2/1610016516396?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
+
+*Francesco Sansone, 05/02/2021, 15:00-16:00*
+
+The recent and continuous technological improvement has led to the rising development of applications enabling deep exploration of biology and human health. In this view, recently, great attention has been placed on omic sciences and their role in the study and characterization of complex biological mechanisms and interactions. Omic sciences include several different fields, such as genomics, proteomics, transcriptomics, metabolomics, and many others. From a technical point of view, each of these fields needs the implementation of bioinformatic algorithms and data science methods characterized by an increasing level of innovation.
+In particular, precision medicine represents a special opportunity for omic sciences, since it allows their integration with much other information produced from different sources, such as data coming from imaging techniques, information acquired with biomedical sensors, and data collected in medical histories within hospitals.
+The integration of this kind of data becomes particularly useful if applied to an information systems dedicated to patients’ health and care. This combined use allows the correlation between omic data and information related to treatments, interventions and laboratory tests patient’s.
+The big amount of data produced by omics science, merged together with the use of informative systems devoted to patients’ health and care, is leading the approach to the patients from a merely physician-based framework towards a pathway where decision and diagnostic support systems are frequently used, taking advantage of Machine and Deep Learning techniques.
+In this framework, it is evident that, in order to build and train an expert system, is more and more necessary to represent the patient in a domain-free mode, without the need for requiring external efforts and being usable independently from the type of application where it is used.
 
 **5- 12/02/2021**
 
