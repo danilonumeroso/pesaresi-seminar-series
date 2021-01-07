@@ -9,7 +9,7 @@ at *laura [dot] bussi [at] phd [dot] unipi [dot] it*.
 
 ## Schedule
 
-**1- Combinatorial properties of degree sequences of 3-uniform hypergraphs arising from saind arrays**
+**1- Combinatorial properties of degree sequences of 3-uniform hypergraphs arising from saind arrays** ([link](https://teams.microsoft.com/l/meetup-join/19%3a9507f4382f764a568f38dc256aaa8b80%40thread.tacv2/1610014746395?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
 
 *Giulia Palma, 15/01/2021, 15:00-16:00*
 
@@ -22,13 +22,13 @@ This sequence is known to enumerate several combinatorial structures such as sym
 We define bijections between the *V<sub>n</sub>* arrays and the above mentioned combinatorial families, thus showing an innovative approach to the study of 3-sequences which should provide subclasses of 3-uniform hypergraphs polynomially reconstructable.
 
 
-**2- Techniques for query verification**
+**2- Techniques for query verification** ([link](https://teams.microsoft.com/l/meetup-join/19%3a2e55862b55f74ef9a9d4a36a59d5775e%40thread.tacv2/1610016452373?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
 
 *Matteo Loporchio, 22/01/2021, 15:00-16:00*
 
 In recent years, many companies and private users have taken advantage of cloud services to store large collections of data, with a huge saving on infrastructure and maintenance costs. Therefore, each time a user wants to retrieve information from the cloud it needs to issue a query and contact the cloud provider, which manages the data collectionon behalf of the owner. In this scenario, however, nothing prevents the provider from sending back tampered or incomplete results. As a consequence,all users must be able to detect any inconsistency in what they receive. This problem is known in the literature as authenticated query processing and its solution hinges on the design of efficient algorithms and cryptographic protocols for data retrieval and authentication. In this talk we will explore some state-of-the-art techniques to address it and discuss some of the challenges we must face when dealing with query processing in the context of blockchain environments.
 
-**3- Computational design of metamaterials for achieving desired mechanical properties in digitally-fabricated shapes**
+**3- Computational design of metamaterials for achieving desired mechanical properties in digitally-fabricated shapes** ([link](https://teams.microsoft.com/l/meetup-join/19%3a0b2efda5150a4a2a862bdf970b314927%40thread.tacv2/1610016516396?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
 
 *Iason Manolas, 29/01/2021, 15:00-16:00*
 
