@@ -37,7 +37,8 @@ When constructing a physical object, besides manufacturing a specific shape, use
 A way for achieving desired effective properties, is by computationally designing mechanical metamaterials. Metamaterials are artificial structures with mechanical properties determined by their structure rather than their composition. Designing such metamaterial structures by hand quickly becomes infeasible as the size and complexity of the shape increases. Thus, such materials are accompanied by the need for computational methods that can generate them.
 In this talk we discuss the development of a computational framework able to design metamaterials for achieving desired mechanical properties in digitally-fabricated objects.
 
-**4- Neural Patient: A neural approach to multimodal patient data representation** ([link](https://teams.microsoft.com/l/meetup-join/19%3a0b2efda5150a4a2a862bdf970b314927%40thread.tacv2/1610016516396?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
+
+**4- Neural Patient: A neural approach to multimodal patient data representation** ([link](https://teams.microsoft.com/l/meetup-join/19%3a2cb0306256f649c887c4ac983ccdb4c5%40thread.tacv2/1610117051535?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
 
 *Francesco Sansone, 05/02/2021, 15:00-16:00*
 
@@ -49,7 +50,16 @@ In this framework, it is evident that, in order to build and train an expert sys
 
 **5- 12/02/2021**
 
-**6- 19/02/2021**
+**6- Locality Filtering for Efficient Ride Sharing Platforms** ([link](https://teams.microsoft.com/l/meetup-join/19%3addec64efedad4f40a91a856d49a9adcb%40thread.tacv2/1610117204840?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
+
+*Francesco Tosoni, 19/02/2021, 15:00-16:00*
+
+Ride sharing has been recently shown to have a tremendous potential to reduce the number of vehicles needed to serve a certain mobility demand, such as one based on taxis. However, although car pooling services have developed in recent years and are now widely available worldwide (e.g. Uber, Didi, Lyft, Via), ride sharing techniques still suffer severe scalability limitations, especially if the goal is combining multiple on-demand ride requests into a single trip in a large urban area.
+
+As a result, any on-demand mobility system needs eventually to design and implement an efficient procedure that avoids comparing all the mobility requests (with their GPS coordinates and time constraints) against each other.
+Indeed, brute force approaches based on considering all possible combinations of request endpoints and vehicles are not scalable for real-time computations. Therefore, when constructing shared trip trajectories, it is essential to design a procedure which extracts just a small and accurate subset of candidate request pairs from the exhaustive set of all request combinations.
+
+We hence present a novel locality filtering approach that, combined with a scalable ride sharing algorithm based on shareability networks, is able to substantially speed up known approaches while only minimally impacting the quality of the computed ride sharing solution.
 
 **7- 26/02/2021**
 
