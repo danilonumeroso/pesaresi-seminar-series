@@ -21,6 +21,8 @@ This sequence is known to enumerate several combinatorial structures such as sym
 
 We define bijections between the *V<sub>n</sub>* arrays and the above mentioned combinatorial families, thus showing an innovative approach to the study of 3-sequences which should provide subclasses of 3-uniform hypergraphs polynomially reconstructable.
 
+([PDF Slides](https://github.com/danilonumeroso/pesaresi-seminar-series/blob/gh-pages/Slides/presentazione%2015%2001%2020%20Giulia%20Palma.pdf))
+
 
 **2- Techniques for query verification** ([link](https://teams.microsoft.com/l/meetup-join/19%3a2e55862b55f74ef9a9d4a36a59d5775e%40thread.tacv2/1610016452373?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
 
