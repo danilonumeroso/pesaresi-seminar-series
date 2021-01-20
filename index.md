@@ -11,7 +11,7 @@ at *laura [dot] bussi [at] phd [dot] unipi [dot] it*.
 
 ## Schedule
 
-**1- Combinatorial properties of degree sequences of 3-uniform hypergraphs arising from saind arrays** ([link](https://teams.microsoft.com/l/meetup-join/19%3a9507f4382f764a568f38dc256aaa8b80%40thread.tacv2/1610014746395?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d)) ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/palma-hypegraphs.pdf))
+**1- Combinatorial properties of degree sequences of 3-uniform hypergraphs arising from saind arrays** ([link](https://teams.microsoft.com/l/meetup-join/19%3a9507f4382f764a568f38dc256aaa8b80%40thread.tacv2/1610014746395?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d)) ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/palma-hypergraphs.pdf))
 
 *Giulia Palma, 15/01/2021, 15:00-16:00*
 
