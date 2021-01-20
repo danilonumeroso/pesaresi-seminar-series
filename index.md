@@ -8,9 +8,7 @@ If you're interested in giving a seminar, you can reach out to me at *danilo [do
 at *laura [dot] bussi [at] phd [dot] unipi [dot] it*.
 
 ## Attendance Report
-```html
 <iframe src="https://docs.google.com/spreadsheets/d/14bbEs3nreK_MI-J0mvm6d4IezieCn8R43yEobAGIJNA/edit?usp=sharing" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="100%" allowfullscreen=""></iframe>
-```
 
 ## Schedule
 
