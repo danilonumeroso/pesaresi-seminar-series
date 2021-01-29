@@ -51,7 +51,7 @@ The integration of this kind of data becomes particularly useful if applied to a
 The big amount of data produced by omics science, merged together with the use of informative systems devoted to patients’ health and care, is leading the approach to the patients from a merely physician-based framework towards a pathway where decision and diagnostic support systems are frequently used, taking advantage of Machine and Deep Learning techniques.
 In this framework, it is evident that, in order to build and train an expert system, is more and more necessary to represent the patient in a domain-free mode, without the need for requiring external efforts and being usable independently from the type of application where it is used.
 
-**5- !!!VACANT!!! 12/02/2021**
+**5- Alessandro Berti, 12/02/2021, 15:00-16:00**
 
 **6- Locality Filtering for Efficient Ride Sharing Platforms** ([link](https://teams.microsoft.com/l/meetup-join/19%3addec64efedad4f40a91a856d49a9adcb%40thread.tacv2/1610117204840?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
 
