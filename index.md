@@ -51,7 +51,7 @@ The integration of this kind of data becomes particularly useful if applied to a
 The big amount of data produced by omics science, merged together with the use of informative systems devoted to patients’ health and care, is leading the approach to the patients from a merely physician-based framework towards a pathway where decision and diagnostic support systems are frequently used, taking advantage of Machine and Deep Learning techniques.
 In this framework, it is evident that, in order to build and train an expert system, is more and more necessary to represent the patient in a domain-free mode, without the need for requiring external efforts and being usable independently from the type of application where it is used.
 
-**5- Quantum Computing: From Zero to Classification** ([link](https://teams.microsoft.com/l/meetup-join/19%3addec64efedad4f40a91a856d49a9adcb%40thread.tacv2/1610117204840?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
+**5- Quantum Computing: From Zero to Classification** ([link](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3A0ecebe659e1f4bb68fdf80e469a032e8%40thread.tacv2%2F1613136446236%3Fcontext%3D%257b%2522Tid%2522%253a%2522c7456b31-a220-47f5-be52-473828670aa1%2522%252c%2522Oid%2522%253a%252274e788f6-b61a-4a90-bfd2-3b962fca24ae%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=dd4febb1-86d0-4ac3-b9f7-2a729fa71069&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true))
 
 *Alessandro Berti, 12/02/2021, 15:00-16:00*
 
