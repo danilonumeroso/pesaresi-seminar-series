@@ -61,7 +61,7 @@ But what actually is it? What are these quantum phenomena exploited to do this k
 
 In this seminar, you will get an answer to these questions and, also, will be shown a “Quantum Distance-based Classifier”, a simple example of classification in the quantum world.
 
-**6- Locality Filtering for Efficient Ride Sharing Platforms** ([link](https://teams.microsoft.com/l/meetup-join/19%3addec64efedad4f40a91a856d49a9adcb%40thread.tacv2/1610117204840?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
+**6- Locality Filtering for Efficient Ride Sharing Platforms** ([link](https://teams.microsoft.com/l/meetup-join/19%3addec64efedad4f40a91a856d49a9adcb%40thread.tacv2/1610117204840?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))([presentation](https://github.com/danilonumeroso/pesaresi-seminar-series/blob/gh-pages/slides/tosoni-locality-filtering.pdf))
 
 *Francesco Tosoni, 19/02/2021, 15:00-16:00*
 
