@@ -88,7 +88,7 @@ We hence present a novel locality filtering approach that, combined with a scala
 
 **14- 23/04/2021**
 
-**15- 30/04/2021**
+**15- Valerio Decaro 30/04/2021**
 
 **16- 07/05/2021**
 
