@@ -72,13 +72,17 @@ Indeed, brute force approaches based on considering all possible combinations of
 
 We hence present a novel locality filtering approach that, combined with a scalable ride sharing algorithm based on shareability networks, is able to substantially speed up known approaches while only minimally impacting the quality of the computed ride sharing solution.
 
-**7- 26/02/2021**
+**7- Theory of Mind for Deep Reinforcement Learning in Hanabi**([link](https://teams.microsoft.com/l/message/19:277f1164d1124ed19129026864420cf0@thread.tacv2/1613990517222?tenantId=c7456b31-a220-47f5-be52-473828670aa1&groupId=46cc9037-82e1-42bc-98fa-be1a6e2dbd56&parentMessageId=1613990517222&teamName=20%2F21%20-%20MAURIANA%20PESARESI%20SEMINAR%20SERIES&channelName=7-Andrew%20Fuchs&createdTime=1613990517222))([presentation](https://github.com/danilonumeroso/pesaresi-seminar-series/tree/gh-pages/slides/fuchs-hanabi))
 
-**8- 05/03/2021**
+*Andrew Fuchs, 26/02/2021, 15:00-16:00*
 
-**9- 12/03/2021**
+The partially observable card game Hanabi was proposed in 2019 as a challenge problem for AI. The relevance of Hanabicomes from its dependence on implicit communication conventions as well as its apparent necessity of theory of mind reasoning for efficient gameplay. In our work, we proposed a mechanism for imbuing Reinforcement Learning agents with a theory of mind to estimate the mental state of players and discover efficient cooperative strategies in Hanabi. Our work provided several contributions. First, a formal definition of a computationally tractable mechanism for computing hand probabilities in Hanabi. Second, anextension to conventional Deep Reinforcement Learning that introduced reasoning over finitely nested theory of mind belief hierarchies. Finally, an intrinsic reward mechanism enabled by theory of mind that incentivized agents to share strategically relevant private knowledge with their teammates. We demonstrated the utility of our algorithm against Rainbow, a state-of-the-art Reinforcement Learning agent. In my current research, I strive to develop a framework for effectively modeling human-AI interactions. The goal is to utilize the model to optimize the behavior of the AI system in anticipation and response to the human’s behavior. Therefore, I present my work on the Hanabi challenge problem as it serves at minimum as an inspiration for possible future directions for my PhD research.
 
-**10- 19/03/2021**
+**8- Laura Bussi 05/03/2021**
+
+**9- Danilo Numeroso 12/03/2021**
+
+**10- Alessio Gravina 19/03/2021**
 
 **11- 26/03/2021**
 
