@@ -72,7 +72,7 @@ Indeed, brute force approaches based on considering all possible combinations of
 
 We hence present a novel locality filtering approach that, combined with a scalable ride sharing algorithm based on shareability networks, is able to substantially speed up known approaches while only minimally impacting the quality of the computed ride sharing solution.
 
-**7- Theory of Mind for Deep Reinforcement Learning in Hanabi**([link](https://teams.microsoft.com/l/message/19:277f1164d1124ed19129026864420cf0@thread.tacv2/1613990517222?tenantId=c7456b31-a220-47f5-be52-473828670aa1&groupId=46cc9037-82e1-42bc-98fa-be1a6e2dbd56&parentMessageId=1613990517222&teamName=20%2F21%20-%20MAURIANA%20PESARESI%20SEMINAR%20SERIES&channelName=7-Andrew%20Fuchs&createdTime=1613990517222))([presentation](https://github.com/danilonumeroso/pesaresi-seminar-series/tree/gh-pages/slides/fuchs-hanabi))
+**7- Theory of Mind for Deep Reinforcement Learning in Hanabi**([link](https://teams.microsoft.com/l/message/19:277f1164d1124ed19129026864420cf0@thread.tacv2/1613990517222?tenantId=c7456b31-a220-47f5-be52-473828670aa1&groupId=46cc9037-82e1-42bc-98fa-be1a6e2dbd56&parentMessageId=1613990517222&teamName=20%2F21%20-%20MAURIANA%20PESARESI%20SEMINAR%20SERIES&channelName=7-Andrew%20Fuchs&createdTime=1613990517222))([presentation](https://github.com/danilonumeroso/pesaresi-seminar-series/tree/gh-pages/slides/fuchs-hanabi.pdf))
 
 *Andrew Fuchs, 26/02/2021, 15:00-16:00*
 
