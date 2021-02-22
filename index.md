@@ -41,7 +41,7 @@ A way for achieving desired effective properties, is by computationally designin
 In this talk we discuss the development of a computational framework able to design metamaterials for achieving desired mechanical properties in digitally-fabricated objects.
 
 
-**4- Neural Patient: A neural approach to multimodal patient data representation** ([link](https://teams.microsoft.com/l/meetup-join/19%3a2cb0306256f649c887c4ac983ccdb4c5%40thread.tacv2/1610117051535?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
+**4- Neural Patient: A neural approach to multimodal patient data representation** ([link](https://teams.microsoft.com/l/meetup-join/19%3a2cb0306256f649c887c4ac983ccdb4c5%40thread.tacv2/1610117051535?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))([presentation](https://github.com/danilonumeroso/pesaresi-seminar-series/blob/gh-pages/slides/Sansone_NeuralPatient.pdf))
 
 *Francesco Sansone, 05/02/2021, 15:00-16:00*
 
@@ -51,7 +51,7 @@ The integration of this kind of data becomes particularly useful if applied to a
 The big amount of data produced by omics science, merged together with the use of informative systems devoted to patients’ health and care, is leading the approach to the patients from a merely physician-based framework towards a pathway where decision and diagnostic support systems are frequently used, taking advantage of Machine and Deep Learning techniques.
 In this framework, it is evident that, in order to build and train an expert system, is more and more necessary to represent the patient in a domain-free mode, without the need for requiring external efforts and being usable independently from the type of application where it is used.
 
-**5- Quantum Computing: From Zero to Classification** ([link](https://teams.microsoft.com/l/meetup-join/19%3addec64efedad4f40a91a856d49a9adcb%40thread.tacv2/1610117204840?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
+**5- Quantum Computing: From Zero to Classification** ([link](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3A0ecebe659e1f4bb68fdf80e469a032e8%40thread.tacv2%2F1613136446236%3Fcontext%3D%257b%2522Tid%2522%253a%2522c7456b31-a220-47f5-be52-473828670aa1%2522%252c%2522Oid%2522%253a%252274e788f6-b61a-4a90-bfd2-3b962fca24ae%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=dd4febb1-86d0-4ac3-b9f7-2a729fa71069&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true))([presentation](https://docs.google.com/presentation/d/1a_bZXdusPEec2jJTgHzugIS6H6-EiwW5eAmmZp8JPWY/edit#slide=id.g796ec1f13b_0_241))
 
 *Alessandro Berti, 12/02/2021, 15:00-16:00*
 
@@ -61,7 +61,7 @@ But what actually is it? What are these quantum phenomena exploited to do this k
 
 In this seminar, you will get an answer to these questions and, also, will be shown a “Quantum Distance-based Classifier”, a simple example of classification in the quantum world.
 
-**6- Locality Filtering for Efficient Ride Sharing Platforms** ([link](https://teams.microsoft.com/l/meetup-join/19%3addec64efedad4f40a91a856d49a9adcb%40thread.tacv2/1610117204840?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
+**6- Locality Filtering for Efficient Ride Sharing Platforms** ([link](https://teams.microsoft.com/l/meetup-join/19%3addec64efedad4f40a91a856d49a9adcb%40thread.tacv2/1610117204840?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))([presentation](https://github.com/danilonumeroso/pesaresi-seminar-series/blob/gh-pages/slides/tosoni-locality-filtering.pdf))
 
 *Francesco Tosoni, 19/02/2021, 15:00-16:00*
 
@@ -72,13 +72,17 @@ Indeed, brute force approaches based on considering all possible combinations of
 
 We hence present a novel locality filtering approach that, combined with a scalable ride sharing algorithm based on shareability networks, is able to substantially speed up known approaches while only minimally impacting the quality of the computed ride sharing solution.
 
-**7- 26/02/2021**
+**7- Theory of Mind for Deep Reinforcement Learning in Hanabi**([link](https://teams.microsoft.com/l/message/19:277f1164d1124ed19129026864420cf0@thread.tacv2/1613990517222?tenantId=c7456b31-a220-47f5-be52-473828670aa1&groupId=46cc9037-82e1-42bc-98fa-be1a6e2dbd56&parentMessageId=1613990517222&teamName=20%2F21%20-%20MAURIANA%20PESARESI%20SEMINAR%20SERIES&channelName=7-Andrew%20Fuchs&createdTime=1613990517222))([presentation](https://github.com/danilonumeroso/pesaresi-seminar-series/tree/gh-pages/slides/fuchs-hanabi))
 
-**8- 05/03/2021**
+*Andrew Fuchs, 26/02/2021, 15:00-16:00*
 
-**9- 12/03/2021**
+The partially observable card game Hanabi was proposed in 2019 as a challenge problem for AI. The relevance of Hanabicomes from its dependence on implicit communication conventions as well as its apparent necessity of theory of mind reasoning for efficient gameplay. In our work, we proposed a mechanism for imbuing Reinforcement Learning agents with a theory of mind to estimate the mental state of players and discover efficient cooperative strategies in Hanabi. Our work provided several contributions. First, a formal definition of a computationally tractable mechanism for computing hand probabilities in Hanabi. Second, anextension to conventional Deep Reinforcement Learning that introduced reasoning over finitely nested theory of mind belief hierarchies. Finally, an intrinsic reward mechanism enabled by theory of mind that incentivized agents to share strategically relevant private knowledge with their teammates. We demonstrated the utility of our algorithm against Rainbow, a state-of-the-art Reinforcement Learning agent. In my current research, I strive to develop a framework for effectively modeling human-AI interactions. The goal is to utilize the model to optimize the behavior of the AI system in anticipation and response to the human’s behavior. Therefore, I present my work on the Hanabi challenge problem as it serves at minimum as an inspiration for possible future directions for my PhD research.
 
-**10- 19/03/2021**
+**8- Laura Bussi 05/03/2021**
+
+**9- Danilo Numeroso 12/03/2021**
+
+**10- Alessio Gravina 19/03/2021**
 
 **11- 26/03/2021**
 
@@ -88,7 +92,7 @@ We hence present a novel locality filtering approach that, combined with a scala
 
 **14- 23/04/2021**
 
-**15- 30/04/2021**
+**15- Valerio Decaro 30/04/2021**
 
 **16- 07/05/2021**
 
