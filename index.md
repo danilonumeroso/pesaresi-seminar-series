@@ -84,7 +84,17 @@ The partially observable card game Hanabi was proposed in 2019 as a challenge pr
 
 **10- Alessio Gravina 19/03/2021**
 
-**11- 26/03/2021**
+**11- Computational Methods for Improving Manufacturing Processes**([link](https://teams.microsoft.com/l/message/19:b53e72a59686414a9889738e6fbbbd05@thread.tacv2/1614266998413?tenantId=c7456b31-a220-47f5-be52-473828670aa1&groupId=46cc9037-82e1-42bc-98fa-be1a6e2dbd56&parentMessageId=1614266998413&teamName=20%2F21%20-%20MAURIANA%20PESARESI%20SEMINAR%20SERIES&channelName=11-Thomas%20Alderighi&createdTime=1614266998413))
+
+*Thomas Alderighi, 26/02/2021, 15:00-16:00*
+
+The recent developments and economic growth related to digital fabrication techniques and machinery created a strong need for robust computational tools and methods that allow users to fully harness the capabilities and potential offered by these technologies. 
+
+This demand led to the birth of a novel research domain called Computational Fabrication, where knowledge and results from different research fields like Numerical Optimization, Geometry Processing and Simulation, are applied to improve the scope of digital fabrication.
+
+In this talk we will present some recent contributions in this field related to the automatic generation of soft silicone molds for objects of complex free-form geometry. Molding is an ancient and well known fabrication technique, where a hollowed block, whose cavity has the shape of the desired object, is filled using some liquid material like plastic or metals. Despite its ancient origins, generating effective molds for non trivial shapes remains a hard task, often requiring a high level of expertise and manual work and design.
+
+We will present how digital fabrication machinery and a geometry processing based approach can help us to improve the scope of molding as a fabrication technique and to strongly reduce the expertise required to the user.
 
 **12- 09/04/2021**
 
