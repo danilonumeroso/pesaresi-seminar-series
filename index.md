@@ -96,7 +96,7 @@ In this talk we will present some recent contributions in this field related to 
 
 We will present how digital fabrication machinery and a geometry processing based approach can help us to improve the scope of molding as a fabrication technique and to strongly reduce the expertise required to the user.
 
-**12- 09/04/2021**
+**12- Giuliano Cornacchia 09/04/2021**
 
 **13- 16/04/2021**
 
