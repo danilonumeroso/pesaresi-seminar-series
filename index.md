@@ -98,7 +98,7 @@ We will present how digital fabrication machinery and a geometry processing base
 
 **12- Giuliano Cornacchia 09/04/2021**
 
-**13- 16/04/2021**
+**13- Antonio Boffa 16/04/2021**
 
 **14- 23/04/2021**
 
