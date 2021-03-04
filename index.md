@@ -84,7 +84,7 @@ The partially observable card game Hanabi was proposed in 2019 as a challenge pr
 
 Nowadays, distributed and cyberphysical systems are used by millions of people. As such systems are becoming widespread, there is a growing need for techniques to ensure their trustworthiness. Properties like safety, security, integrity and availability are crucial in this kind of systems and, for the time being, there is still a lack of formal tools for their specification and verification.
 
-In this seminar, we will take a glance at the main challenges that must be taken into account when designing specification and verification tools for such systems, for instance dynamicity of (both continuous and discrete) space and time. We will then give an overview of existing formal tools and possible research directions.
+In this seminar, we will take a glance at the main challenges that must be taken into account when designing specification and verification tools for such systems. We will then give an overview of existing formal tools and possible research directions.
 
 **9- Danilo Numeroso 12/03/2021**
 
