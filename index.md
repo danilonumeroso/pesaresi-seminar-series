@@ -110,7 +110,7 @@ We will present how digital fabrication machinery and a geometry processing base
 
 **15- Valerio Decaro 30/04/2021**
 
-**16- 07/05/2021**
+**16- Davide Rucci 07/05/2021**
 
 ## FAQ
 - **How long do the seminars last?**
