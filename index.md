@@ -86,7 +86,7 @@ Nowadays, distributed and cyberphysical systems are used by millions of people. 
 
 In this seminar, we will take a glance at the main challenges that must be taken into account when designing specification and verification tools for such systems. We will then give an overview of existing formal tools and possible research directions.
 
-**9- Explainable and Trustworthy Deep Learning**([link](https://teams.microsoft.com/l/message/19:b71328eaf70743cfb1240ac8e7aba9cb@thread.tacv2/1615370111100?tenantId=c7456b31-a220-47f5-be52-473828670aa1&groupId=46cc9037-82e1-42bc-98fa-be1a6e2dbd56&parentMessageId=1615370111100&teamName=20%2F21%20-%20MAURIANA%20PESARESI%20SEMINAR%20SERIES&channelName=09-Danilo%20Numeroso&createdTime=1615370111100))
+**9- Explainable and Trustworthy Deep Learning**([link](https://teams.microsoft.com/l/meetup-join/19%3ab71328eaf70743cfb1240ac8e7aba9cb%40thread.tacv2/1615370111100?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%2274e788f6-b61a-4a90-bfd2-3b962fca24ae%22%7d))
 
 *Danilo Numeroso, 12/03/2021, 15:00-16:00*
 
