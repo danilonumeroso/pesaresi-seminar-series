@@ -130,7 +130,7 @@ We will present how digital fabrication machinery and a geometry processing base
 
 **13- Antonio Boffa 16/04/2021**
 
-**14- 23/04/2021**
+**14- Alessandro Di Giorgio 23/04/2021**
 
 **15- Valerio Decaro 30/04/2021**
 
