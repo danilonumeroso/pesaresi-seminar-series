@@ -86,7 +86,7 @@ Nowadays, distributed and cyberphysical systems are used by millions of people. 
 
 In this seminar, we will take a glance at the main challenges that must be taken into account when designing specification and verification tools for such systems. We will then give an overview of existing formal tools and possible research directions.
 
-**9- Explainable and Trustworthy Deep Learning**([link](https://teams.microsoft.com/l/meetup-join/19%3ab71328eaf70743cfb1240ac8e7aba9cb%40thread.tacv2/1615370111100?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%2274e788f6-b61a-4a90-bfd2-3b962fca24ae%22%7d))
+**9- Explainable and Trustworthy Deep Learning**([link](https://teams.microsoft.com/l/meetup-join/19%3ab71328eaf70743cfb1240ac8e7aba9cb%40thread.tacv2/1615370111100?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%2274e788f6-b61a-4a90-bfd2-3b962fca24ae%22%7d))([presentation](https://github.com/danilonumeroso/pesaresi-seminar-series/tree/gh-pages/slides/numeroso-xai.pdf))
 
 *Danilo Numeroso, 12/03/2021, 15:00-16:00*
 
@@ -95,22 +95,6 @@ Deep learning models learn to map a set of features into a class or a set of pro
 This talk will serve as introduction to the problem of interpretability
 of deep neural networks, with an emphasis on deep learning for structured
 data. The seminar also overviews some related work in the field to date.
-
-
-Black box AI systems for automated decision making, often based on
-machine learning over (big) data, map a user’s features into a class or
-a score without exposing the reasons why. This is problematic not only
-for the lack of transparency, but also for possible biases inherited by
-the algorithms from human prejudices and collection artifacts hidden in
-the training data, which may lead to unfair or wrong decisions. The
-future of AI lies in enabling people to collaborate with machines to
-solve complex problems. Like any efficient collaboration, this requires
-good communication, trust, clarity and understanding. Explainable AI
-addresses such challenges and for years different AI communities have
-studied such topics, leading to different definitions, evaluation
-protocols, motivations, and results. This lecture provides a reasoned
-introduction to the work of Explainable AI (XAI) to date, focusing the
-discussion on methods providing explanations based on logical rules.
 
 **10- Alessio Gravina 19/03/2021**
 
