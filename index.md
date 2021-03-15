@@ -96,7 +96,7 @@ This talk will serve as introduction to the problem of interpretability
 of deep neural networks, with an emphasis on deep learning for structured
 data. The seminar also overviews some related work in the field to date.
 
-**10- Drug repurposing for COVID-19 through Deep Graph Networks**([link])(https://teams.microsoft.com/l/meetup-join/19%3aedf754fade7946ca93485ab321759418%40thread.tacv2/1615805746904?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d) ([presentation](null)]
+**10- Drug repurposing for COVID-19 through Deep Graph Networks**([link](https://teams.microsoft.com/l/meetup-join/19%3aedf754fade7946ca93485ab321759418%40thread.tacv2/1615805746904?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d)) ([presentation](null))
 
 *Alessio Gravina, 19/03/2021, 15:00-16:00*
 
