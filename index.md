@@ -100,6 +100,8 @@ data. The seminar also overviews some related work in the field to date.
 
 *Alessio Gravina, 19/03/2021, 15:00-16:00*
 
+The COVID-19 pandemic is one of the biggest in recent human history. The timeline of the virus has urged scientists from all over the world to seek effective treatments. With this objective, we attempted to address the problem of drug repurposing from the point of view of deep learning for graphs, developing an architecture that exploits both structural and biological information to propose a reduced list of drugs that may be effective against an unknown disease. Our approach has shown excellent performances, and we assessed its practical use on COVID-19.
+
 **11- Computational Methods for Improving Manufacturing Processes**([link](https://teams.microsoft.com/l/message/19:b53e72a59686414a9889738e6fbbbd05@thread.tacv2/1614266998413?tenantId=c7456b31-a220-47f5-be52-473828670aa1&groupId=46cc9037-82e1-42bc-98fa-be1a6e2dbd56&parentMessageId=1614266998413&teamName=20%2F21%20-%20MAURIANA%20PESARESI%20SEMINAR%20SERIES&channelName=11-Thomas%20Alderighi&createdTime=1614266998413))
 
 *Thomas Alderighi, 26/02/2021, 15:00-16:00*
