@@ -31,7 +31,7 @@ We define bijections between the *V<sub>n</sub>* arrays and the above mentioned 
 
 In recent years, many companies and private users have taken advantage of cloud services to store large collections of data, with a huge saving on infrastructure and maintenance costs. Therefore, each time a user wants to retrieve information from the cloud it needs to issue a query and contact the cloud provider, which manages the data collectionon behalf of the owner. In this scenario, however, nothing prevents the provider from sending back tampered or incomplete results. As a consequence,all users must be able to detect any inconsistency in what they receive. This problem is known in the literature as authenticated query processing and its solution hinges on the design of efficient algorithms and cryptographic protocols for data retrieval and authentication. In this talk we will explore some state-of-the-art techniques to address it and discuss some of the challenges we must face when dealing with query processing in the context of blockchain environments.
 
-**3- Computational design of metamaterials for achieving desired mechanical properties in digitally-fabricated shapes** ([link](https://teams.microsoft.com/l/meetup-join/19%3a0b2efda5150a4a2a862bdf970b314927%40thread.tacv2/1610016516396?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d)) ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/manolas-metamaterials.pdf))
+**3- Computational design of metamaterials for achieving desired mechanical properties in digitally-fabricated shapes** ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/manolas-metamaterials.pdf))
 
 *Iason Manolas, 29/01/2021, 15:00-16:00*
 
@@ -104,7 +104,7 @@ The COVID-19 pandemic is one of the biggest in recent human history. The timelin
 
 **11- Computational Methods for Improving Manufacturing Processes** ([link](https://teams.microsoft.com/l/message/19:b53e72a59686414a9889738e6fbbbd05@thread.tacv2/1614266998413?tenantId=c7456b31-a220-47f5-be52-473828670aa1&groupId=46cc9037-82e1-42bc-98fa-be1a6e2dbd56&parentMessageId=1614266998413&teamName=20%2F21%20-%20MAURIANA%20PESARESI%20SEMINAR%20SERIES&channelName=11-Thomas%20Alderighi&createdTime=1614266998413))
 
-*Thomas Alderighi, 26/02/2021, 15:00-16:00*
+*Thomas Alderighi, 26/03/2021, 15:00-16:00*
 
 The recent developments and economic growth related to digital fabrication techniques and machinery created a strong need for robust computational tools and methods that allow users to fully harness the capabilities and potential offered by these technologies.
 
@@ -124,13 +124,11 @@ We will present how digital fabrication machinery and a geometry processing base
 
 **16- Davide Rucci 07/05/2021**
 
-**17- 07/05/2021**
+**17- 14/05/2021**
 
-**18- 14/05/2021**
+**18- 21/05/2021**
 
-**19- 21/05/2021**
-
-**20- 28/05/2021**
+**19- 28/05/2021**
 
 ## FAQ
 - **How long do the seminars last?**
