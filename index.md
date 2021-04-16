@@ -114,7 +114,7 @@ In this talk we will present some recent contributions in this field related to 
 
 We will present how digital fabrication machinery and a geometry processing based approach can help us to improve the scope of molding as a fabrication technique and to strongly reduce the expertise required to the user.
 
-**12- A mechanistic approach to modelling spatial, temporal and social aspects of human mobility** 
+**12- A mechanistic approach to modelling spatial, temporal and social aspects of human mobility**
 
 *Giuliano Cornacchia, 09/04/2021, 15:00-16:00*
 
@@ -139,13 +139,13 @@ We corroborate our theoretical results with a large set of experiments over data
 
 **14- Alessandro Di Giorgio 23/04/2021**
 
-**15- Valerio De Caro 30/04/2021**
+**15- VACANT 30/04/2021**
 
 **16- Davide Rucci 07/05/2021**
 
 **17- Andrea Valenti 14/05/2021**
 
-**18- 21/05/2021**
+**18- Michele Resta 21/05/2021**
 
 **19- 28/05/2021**
 
