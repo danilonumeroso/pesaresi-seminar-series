@@ -147,7 +147,7 @@ We corroborate our theoretical results with a large set of experiments over data
 
 **18- Michele Resta 21/05/2021**
 
-**19- 28/05/2021**
+**19- Domenico Tortorella 28/05/2021**
 
 ## FAQ
 - **How long do the seminars last?**
