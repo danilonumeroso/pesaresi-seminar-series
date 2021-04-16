@@ -127,7 +127,15 @@ Our experiments conducted on an open dataset show that STS-EPR, overall, outperf
 We further investigate the impact of tile shape and granularity of the spatial tessellation on the performance of our model.
 STS-EPR, which is open-source and tested on open data, represents a step towards the design of a mechanistic model that can capture all the aspects of human mobility comprehensively.
 
-**13- Antonio Boffa 16/04/2021**
+**13- Compressing and indexing using a learned approach 16/04/2021**
+
+*Antonio Boffa, 16/04/2021, 15:00-16:00*
+
+ The growth rate of the data has already surpassed Moore’s law in areas like bioinformatics and astrology. Succinct data structures are fundamentals to store the data in almost optimal space, and still to efficiently solve queries. Very recently, the unexpected combination of succinct data structures and machine learning has led to the development of learned data structures. 
+
+In this seminar, we address the problem of designing, implementing and experimenting with succinct data structures over a dictionary of integers. We shine a new light on this classical problem by showing a surprising connection between the input integers and the geometry of a set of points in a Cartesian plane suitably derived from them. We then build upon some results in computational geometry to introduce the first compressed rank/select dictionary based on the idea of "learning" the distribution of such points via proper linear approximations. We prove time and space complexities in several scenarios: in the worst case and the case of input distributions with finite mean and variance. 
+
+We corroborate our theoretical results with a large set of experiments over datasets originating from a variety of applications (Web search, DNA sequencing, information retrieval and natural language processing). Our approach provides new interesting space-time trade-offs with respect to several well-established implementations.
 
 **14- Alessandro Di Giorgio 23/04/2021**
 
