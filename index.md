@@ -127,7 +127,7 @@ Our experiments conducted on an open dataset show that STS-EPR, overall, outperf
 We further investigate the impact of tile shape and granularity of the spatial tessellation on the performance of our model.
 STS-EPR, which is open-source and tested on open data, represents a step towards the design of a mechanistic model that can capture all the aspects of human mobility comprehensively.
 
-**13- Compressing and indexing using a learned approach**([link](https://teams.microsoft.com/l/message/19:183819364f924c2c81a1027dbb359efc@thread.tacv2/1617122835191?tenantId=c7456b31-a220-47f5-be52-473828670aa1&groupId=46cc9037-82e1-42bc-98fa-be1a6e2dbd56&parentMessageId=1617122835191&teamName=20%2F21%20-%20MAURIANA%20PESARESI%20SEMINAR%20SERIES&channelName=13-%20Antonio%20Boffa&createdTime=1617122835191))
+**13- Compressing and indexing using a learned approach**([presentation](null))
 
 *Antonio Boffa, 16/04/2021, 15:00-16:00*
 
