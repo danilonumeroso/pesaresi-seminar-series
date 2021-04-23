@@ -139,7 +139,7 @@ We corroborate our theoretical results with a large set of experiments over data
 
 **14- Compositional Linear Programming**
 
-*Antonio Boffa, 16/04/2021, 15:00-16:00*
+*Alessandro Di Giorgio, 16/04/2021, 15:00-16:00*
 
 A complex structure or system is said to be compositionalwhenever its behaviour is entirelydetermined by the behaviour of its simpler parts andthe way they are composed. Thisproperty is clearly essential when the system underanalysis is big enough to make theanalysis itself impracticable. Moreover, from thepoint of view of optimization, the ability toforget unneeded parts of the system is crucial.The theory IH of interacting Hopf Algebras is a compositionalcharacterization of linearrelations (subspaces) over an arbitrary field. Thetheory has an intuitive representation as alanguage of string diagrams, hiding the categoricalfoundation behind it.We present AIH+, an extension of IH which turns outto be sound and complete for wellknown geometrical objects, namely polyhedra. Thisclass of objects is ubiquitous in linearprogramming, where it is employed to represent (setsof constraints of) linear programs.Within  AIH+we aim to give an axiomatic and diagrammaticperspective on well-knownresults from the theory of linear programming suchas the Farkas Lemma. We also present adenotational way of characterizing equivalent flownetworks and, more generally, linearprograms.
 
