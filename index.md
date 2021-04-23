@@ -131,13 +131,17 @@ STS-EPR, which is open-source and tested on open data, represents a step towards
 
 *Antonio Boffa, 16/04/2021, 15:00-16:00*
 
- The growth rate of the data has already surpassed Moore’s law in areas like bioinformatics and astrology. Succinct data structures are fundamentals to store the data in almost optimal space, and still to efficiently solve queries. Very recently, the unexpected combination of succinct data structures and machine learning has led to the development of learned data structures. 
+The growth rate of the data has already surpassed Moore’s law in areas like bioinformatics and astrology. Succinct data structures are fundamentals to store the data in almost optimal space, and still to efficiently solve queries. Very recently, the unexpected combination of succinct data structures and machine learning has led to the development of learned data structures. 
 
 In this seminar, we address the problem of designing, implementing and experimenting with succinct data structures over a dictionary of integers. We shine a new light on this classical problem by showing a surprising connection between the input integers and the geometry of a set of points in a Cartesian plane suitably derived from them. We then build upon some results in computational geometry to introduce the first compressed rank/select dictionary based on the idea of "learning" the distribution of such points via proper linear approximations. We prove time and space complexities in several scenarios: in the worst case and the case of input distributions with finite mean and variance. 
 
 We corroborate our theoretical results with a large set of experiments over datasets originating from a variety of applications (Web search, DNA sequencing, information retrieval and natural language processing). Our approach provides new interesting space-time trade-offs with respect to several well-established implementations.
 
-**14- Alessandro Di Giorgio 23/04/2021**
+**14- Compositional Linear Programming**
+
+*Antonio Boffa, 16/04/2021, 15:00-16:00*
+
+A complex structure or system is said to be compositionalwhenever its behaviour is entirelydetermined by the behaviour of its simpler parts andthe way they are composed. Thisproperty is clearly essential when the system underanalysis is big enough to make theanalysis itself impracticable. Moreover, from thepoint of view of optimization, the ability toforget unneeded parts of the system is crucial.The theory IH of interacting Hopf Algebras is a compositionalcharacterization of linearrelations (subspaces) over an arbitrary field. Thetheory has an intuitive representation as alanguage of string diagrams, hiding the categoricalfoundation behind it.We present AIH+, an extension of IH which turns outto be sound and complete for wellknown geometrical objects, namely polyhedra. Thisclass of objects is ubiquitous in linearprogramming, where it is employed to represent (setsof constraints of) linear programs.Within  AIH+we aim to give an axiomatic and diagrammaticperspective on well-knownresults from the theory of linear programming suchas the Farkas Lemma. We also present adenotational way of characterizing equivalent flownetworks and, more generally, linearprograms.
 
 **15- VACANT 30/04/2021**
 
@@ -148,6 +152,8 @@ We corroborate our theoretical results with a large set of experiments over data
 **18- Michele Resta 21/05/2021**
 
 **19- Domenico Tortorella 28/05/2021**
+
+**20- Andrea Pedrotti 04/06/2021**
 
 ## FAQ
 - **How long do the seminars last?**
