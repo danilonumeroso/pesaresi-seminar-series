@@ -145,7 +145,16 @@ A complex structure or system is said to be compositionalwhenever its behaviour 
 
 **15- VACANT 30/04/2021**
 
-**16- Davide Rucci 07/05/2021**
+**16- Community Detection in Large Graphs**([link](https://teams.microsoft.com/l/meetup-join/19%3aa288a69763dd4ec6a0bbb344bfb6f107%40thread.tacv2/1617122930578?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
+
+*Davide Rucci, 07/05/2021, 15:00-16:00*
+
+The concept of network is fundamental in computer science and its popularity has been ever increasing thanks to its many different application fields.
+Since real-world networks do not appear to be random, i.e. they cannot be modeled with an Erdos-Renyi graph, one is interested in finding the substructures that compose them. We focus here on communities: groups of nodes sharing many links "inside" and significantly less links with the rest of the graph. An immediate formalization of this idea is that of cliques. 
+Enumerating all cliques in a graph is a well-known NP-hard problem and has seen extensive study.
+The first recursive algorithm was proposed by Bron and Kerbosch and it was recently improved by Tomita et al. and Eppstein et al. The latter version is fixed-parameter tractable, but not
+all of its properties, such as if it is output sensitive are known yet.
+We then move to graphlets, discussing a novel technique called push-out amortization that is rising nowadays in the enumeration field, and that will lead to the improvement of current state-of-the-art algorithms.
 
 **17- Andrea Valenti 14/05/2021**
 
