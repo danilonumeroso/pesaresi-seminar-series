@@ -131,9 +131,9 @@ STS-EPR, which is open-source and tested on open data, represents a step towards
 
 *Antonio Boffa, 16/04/2021, 15:00-16:00*
 
-The growth rate of the data has already surpassed Moore’s law in areas like bioinformatics and astrology. Succinct data structures are fundamentals to store the data in almost optimal space, and still to efficiently solve queries. Very recently, the unexpected combination of succinct data structures and machine learning has led to the development of learned data structures. 
+The growth rate of the data has already surpassed Moore’s law in areas like bioinformatics and astrology. Succinct data structures are fundamentals to store the data in almost optimal space, and still to efficiently solve queries. Very recently, the unexpected combination of succinct data structures and machine learning has led to the development of learned data structures.
 
-In this seminar, we address the problem of designing, implementing and experimenting with succinct data structures over a dictionary of integers. We shine a new light on this classical problem by showing a surprising connection between the input integers and the geometry of a set of points in a Cartesian plane suitably derived from them. We then build upon some results in computational geometry to introduce the first compressed rank/select dictionary based on the idea of "learning" the distribution of such points via proper linear approximations. We prove time and space complexities in several scenarios: in the worst case and the case of input distributions with finite mean and variance. 
+In this seminar, we address the problem of designing, implementing and experimenting with succinct data structures over a dictionary of integers. We shine a new light on this classical problem by showing a surprising connection between the input integers and the geometry of a set of points in a Cartesian plane suitably derived from them. We then build upon some results in computational geometry to introduce the first compressed rank/select dictionary based on the idea of "learning" the distribution of such points via proper linear approximations. We prove time and space complexities in several scenarios: in the worst case and the case of input distributions with finite mean and variance.
 
 We corroborate our theoretical results with a large set of experiments over datasets originating from a variety of applications (Web search, DNA sequencing, information retrieval and natural language processing). Our approach provides new interesting space-time trade-offs with respect to several well-established implementations.
 
@@ -143,26 +143,28 @@ We corroborate our theoretical results with a large set of experiments over data
 
 A complex structure or system is said to be compositionalwhenever its behaviour is entirelydetermined by the behaviour of its simpler parts andthe way they are composed. Thisproperty is clearly essential when the system underanalysis is big enough to make theanalysis itself impracticable. Moreover, from thepoint of view of optimization, the ability toforget unneeded parts of the system is crucial.The theory IH of interacting Hopf Algebras is a compositionalcharacterization of linearrelations (subspaces) over an arbitrary field. Thetheory has an intuitive representation as alanguage of string diagrams, hiding the categoricalfoundation behind it.We present AIH+, an extension of IH which turns outto be sound and complete for wellknown geometrical objects, namely polyhedra. Thisclass of objects is ubiquitous in linearprogramming, where it is employed to represent (setsof constraints of) linear programs.Within  AIH+we aim to give an axiomatic and diagrammaticperspective on well-knownresults from the theory of linear programming suchas the Farkas Lemma. We also present adenotational way of characterizing equivalent flownetworks and, more generally, linearprograms.
 
-**15- VACANT 30/04/2021**
-
-**16- Community Detection in Large Graphs**([link](https://teams.microsoft.com/l/meetup-join/19%3aa288a69763dd4ec6a0bbb344bfb6f107%40thread.tacv2/1617122930578?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
+**15- Community Detection in Large Graphs**([link](https://teams.microsoft.com/l/meetup-join/19%3aa288a69763dd4ec6a0bbb344bfb6f107%40thread.tacv2/1617122930578?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
 
 *Davide Rucci, 07/05/2021, 15:00-16:00*
 
 The concept of network is fundamental in computer science and its popularity has been ever increasing thanks to its many different application fields.
-Since real-world networks do not appear to be random, i.e. they cannot be modeled with an Erdos-Renyi graph, one is interested in finding the substructures that compose them. We focus here on communities: groups of nodes sharing many links "inside" and significantly less links with the rest of the graph. An immediate formalization of this idea is that of cliques. 
+Since real-world networks do not appear to be random, i.e. they cannot be modeled with an Erdos-Renyi graph, one is interested in finding the substructures that compose them. We focus here on communities: groups of nodes sharing many links "inside" and significantly less links with the rest of the graph. An immediate formalization of this idea is that of cliques.
 Enumerating all cliques in a graph is a well-known NP-hard problem and has seen extensive study.
 The first recursive algorithm was proposed by Bron and Kerbosch and it was recently improved by Tomita et al. and Eppstein et al. The latter version is fixed-parameter tractable, but not
 all of its properties, such as if it is output sensitive are known yet.
 We then move to graphlets, discussing a novel technique called push-out amortization that is rising nowadays in the enumeration field, and that will lead to the improvement of current state-of-the-art algorithms.
 
-**17- Andrea Valenti 14/05/2021**
+**16-  14/05/2021**([link](https://teams.microsoft.com/l/meetup-join/19%3a9b56de2ce723496b96a6a21e223b7d0c%40thread.tacv2/1617124068873?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
 
-**18- Michele Resta 21/05/2021**
+*Andrea Valenti, 14/05/2021, 15:00-16:00*
 
-**19- Domenico Tortorella 28/05/2021**
+**17- Michele Resta 21/05/2021**
 
-**20- Andrea Pedrotti 04/06/2021**
+**18- Domenico Tortorella 28/05/2021**
+
+**19- Andrea Pedrotti 04/06/2021**
+
+**20- Valerio De Caro 11/06/2021**
 
 ## FAQ
 - **How long do the seminars last?**
