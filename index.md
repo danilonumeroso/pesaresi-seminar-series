@@ -154,9 +154,11 @@ The first recursive algorithm was proposed by Bron and Kerbosch and it was recen
 all of its properties, such as if it is output sensitive are known yet.
 We then move to graphlets, discussing a novel technique called push-out amortization that is rising nowadays in the enumeration field, and that will lead to the improvement of current state-of-the-art algorithms.
 
-**16-  14/05/2021**([link](https://teams.microsoft.com/l/meetup-join/19%3a9b56de2ce723496b96a6a21e223b7d0c%40thread.tacv2/1617124068873?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
+**16- Structuring Neural Representations with the Entity-Relation Meta-Prior**([link](https://teams.microsoft.com/l/meetup-join/19%3a9b56de2ce723496b96a6a21e223b7d0c%40thread.tacv2/1617124068873?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
 
 *Andrea Valenti, 14/05/2021, 15:00-16:00*
+
+I will present the main ideas behind my research, showing how meta-priors could be used to improve the neural representations learned by machine learning models.
 
 **17- Michele Resta 21/05/2021**
 
