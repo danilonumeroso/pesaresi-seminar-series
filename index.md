@@ -143,7 +143,7 @@ We corroborate our theoretical results with a large set of experiments over data
 
 A complex structure or system is said to be compositionalwhenever its behaviour is entirelydetermined by the behaviour of its simpler parts andthe way they are composed. Thisproperty is clearly essential when the system underanalysis is big enough to make theanalysis itself impracticable. Moreover, from thepoint of view of optimization, the ability toforget unneeded parts of the system is crucial.The theory IH of interacting Hopf Algebras is a compositionalcharacterization of linearrelations (subspaces) over an arbitrary field. Thetheory has an intuitive representation as alanguage of string diagrams, hiding the categoricalfoundation behind it.We present AIH+, an extension of IH which turns outto be sound and complete for wellknown geometrical objects, namely polyhedra. Thisclass of objects is ubiquitous in linearprogramming, where it is employed to represent (setsof constraints of) linear programs.Within  AIH+we aim to give an axiomatic and diagrammaticperspective on well-knownresults from the theory of linear programming suchas the Farkas Lemma. We also present adenotational way of characterizing equivalent flownetworks and, more generally, linearprograms.
 
-**15- Community Detection in Large Graphs**([link](https://teams.microsoft.com/l/meetup-join/19%3aa288a69763dd4ec6a0bbb344bfb6f107%40thread.tacv2/1617122930578?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
+**15- Community Detection in Large Graphs**
 
 *Davide Rucci, 07/05/2021, 15:00-16:00*
 
