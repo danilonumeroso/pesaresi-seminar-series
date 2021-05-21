@@ -154,13 +154,20 @@ The first recursive algorithm was proposed by Bron and Kerbosch and it was recen
 all of its properties, such as if it is output sensitive are known yet.
 We then move to graphlets, discussing a novel technique called push-out amortization that is rising nowadays in the enumeration field, and that will lead to the improvement of current state-of-the-art algorithms.
 
-**16- Structuring Neural Representations with the Entity-Relation Meta-Prior**([link](https://teams.microsoft.com/l/meetup-join/19%3a9b56de2ce723496b96a6a21e223b7d0c%40thread.tacv2/1617124068873?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
+**16- Structuring Neural Representations with the Entity-Relation Meta-Prior**
 
 *Andrea Valenti, 14/05/2021, 15:00-16:00*
 
 I will present the main ideas behind my research, showing how meta-priors could be used to improve the neural representations learned by machine learning models.
 
-**17- Michele Resta 21/05/2021**
+**17- Low Resource Neural Machine Translation 21/05/2021** ([link](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3A16fe7003a71249fcb09ce27d353bc5b3%40thread.tacv2%2F1621587417386%3Fcontext%3D%257b%2522Tid%2522%253a%2522c7456b31-a220-47f5-be52-473828670aa1%2522%252c%2522Oid%2522%253a%2522f2fd2449-3fe1-4a22-92e3-32757a6b4104%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=92ee02a6-1bc9-4828-b3aa-caf368d95c18&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true))
+
+*Michele Resta, 21/05/2021, 15:00-16:00*
+
+Since its inception during the Cold War, research on automatic translation witnessed astonishing achievements.
+In particular, the last decade has seen the widespread adoption of Deep Learning approaches to improve translation systems.
+
+This seminar will provide an introduction to the field of Neural Machine Translation and one of its open problems: how can we learn a translation model when we have little to no data?
 
 **18- Domenico Tortorella 28/05/2021**
 
