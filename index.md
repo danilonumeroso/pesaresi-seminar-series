@@ -127,7 +127,7 @@ Our experiments conducted on an open dataset show that STS-EPR, overall, outperf
 We further investigate the impact of tile shape and granularity of the spatial tessellation on the performance of our model.
 STS-EPR, which is open-source and tested on open data, represents a step towards the design of a mechanistic model that can capture all the aspects of human mobility comprehensively.
 
-**13- Compressing and indexing using a learned approach**([presentation](null))
+**13- Compressing and indexing using a learned approach** ([presentation](null))
 
 *Antonio Boffa, 16/04/2021, 15:00-16:00*
 
@@ -137,7 +137,7 @@ In this seminar, we address the problem of designing, implementing and experimen
 
 We corroborate our theoretical results with a large set of experiments over datasets originating from a variety of applications (Web search, DNA sequencing, information retrieval and natural language processing). Our approach provides new interesting space-time trade-offs with respect to several well-established implementations.
 
-**14- Compositional Linear Programming**([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/Comp-linear-programming.pdf))
+**14- Compositional Linear Programming** ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/digiorgio-compositional-linear-programming.pdf))
 
 *Alessandro Di Giorgio, 16/04/2021, 15:00-16:00*
 
@@ -154,7 +154,7 @@ The first recursive algorithm was proposed by Bron and Kerbosch and it was recen
 all of its properties, such as if it is output sensitive are known yet.
 We then move to graphlets, discussing a novel technique called push-out amortization that is rising nowadays in the enumeration field, and that will lead to the improvement of current state-of-the-art algorithms.
 
-**16- Structuring Neural Representations with the Entity-Relation Meta-Prior**
+**16- Structuring Neural Representations with the Entity-Relation Meta-Prior** ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/valenti-neural-representation.pdf))
 
 *Andrea Valenti, 14/05/2021, 15:00-16:00*
 
