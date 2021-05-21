@@ -137,7 +137,7 @@ In this seminar, we address the problem of designing, implementing and experimen
 
 We corroborate our theoretical results with a large set of experiments over datasets originating from a variety of applications (Web search, DNA sequencing, information retrieval and natural language processing). Our approach provides new interesting space-time trade-offs with respect to several well-established implementations.
 
-**14- Compositional Linear Programming**
+**14- Compositional Linear Programming**([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/Comp-linear-programming.pdf))
 
 *Alessandro Di Giorgio, 16/04/2021, 15:00-16:00*
 
