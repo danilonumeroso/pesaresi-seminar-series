@@ -169,11 +169,11 @@ In particular, the last decade has seen the widespread adoption of Deep Learning
 
 This seminar will provide an introduction to the field of Neural Machine Translation and one of its open problems: how can we learn a translation model when we have little to no data?
 
-**18- Domenico Tortorella 28/05/2021**
+**18- Domenico Tortorella 28/05/2021** ([link](https://teams.microsoft.com/l/meetup-join/19%3a233d061d89f6473fa7909223eafd6c1d%40thread.tacv2/1621669185368?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
 
-**19- Andrea Pedrotti 04/06/2021**
+**19- Andrea Pedrotti 04/06/2021** ([link](https://teams.microsoft.com/l/meetup-join/19%3a87e648866357462f8b5a2ee16e5b6907%40thread.tacv2/1621669460330?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
 
-**20- Valerio De Caro 11/06/2021**
+**20- Valerio De Caro 11/06/2021** ([link](https://teams.microsoft.com/l/meetup-join/19%3a3ba6e0b28fa4452fab01aecccd7efac1%40thread.tacv2/1621669701671?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
 
 ## FAQ
 - **How long do the seminars last?**
