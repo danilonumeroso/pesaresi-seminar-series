@@ -96,7 +96,7 @@ This talk will serve as introduction to the problem of interpretability
 of deep neural networks, with an emphasis on deep learning for structured
 data. The seminar also overviews some related work in the field to date.
 
-**10- Drug repurposing for COVID-19 through Deep Graph Networks** ([presentation](null))
+**10- Drug repurposing for COVID-19 through Deep Graph Networks** ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/null.pdf)))
 
 *Alessio Gravina, 19/03/2021, 15:00-16:00*
 
@@ -114,7 +114,7 @@ In this talk we will present some recent contributions in this field related to 
 
 We will present how digital fabrication machinery and a geometry processing based approach can help us to improve the scope of molding as a fabrication technique and to strongly reduce the expertise required to the user.
 
-**12- A mechanistic approach to modelling spatial, temporal and social aspects of human mobility**
+**12- A mechanistic approach to modelling spatial, temporal and social aspects of human mobility** ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/cornacchia-mobility.pdf))
 
 *Giuliano Cornacchia, 09/04/2021, 15:00-16:00*
 
@@ -127,7 +127,7 @@ Our experiments conducted on an open dataset show that STS-EPR, overall, outperf
 We further investigate the impact of tile shape and granularity of the spatial tessellation on the performance of our model.
 STS-EPR, which is open-source and tested on open data, represents a step towards the design of a mechanistic model that can capture all the aspects of human mobility comprehensively.
 
-**13- Compressing and indexing using a learned approach** ([presentation](null))
+**13- Compressing and indexing using a learned approach** ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/null.pdf)))
 
 *Antonio Boffa, 16/04/2021, 15:00-16:00*
 
@@ -143,7 +143,7 @@ We corroborate our theoretical results with a large set of experiments over data
 
 A complex structure or system is said to be compositionalwhenever its behaviour is entirelydetermined by the behaviour of its simpler parts andthe way they are composed. Thisproperty is clearly essential when the system underanalysis is big enough to make theanalysis itself impracticable. Moreover, from thepoint of view of optimization, the ability toforget unneeded parts of the system is crucial.The theory IH of interacting Hopf Algebras is a compositionalcharacterization of linearrelations (subspaces) over an arbitrary field. Thetheory has an intuitive representation as alanguage of string diagrams, hiding the categoricalfoundation behind it.We present AIH+, an extension of IH which turns outto be sound and complete for wellknown geometrical objects, namely polyhedra. Thisclass of objects is ubiquitous in linearprogramming, where it is employed to represent (setsof constraints of) linear programs.Within  AIH+we aim to give an axiomatic and diagrammaticperspective on well-knownresults from the theory of linear programming suchas the Farkas Lemma. We also present adenotational way of characterizing equivalent flownetworks and, more generally, linearprograms.
 
-**15- Community Detection in Large Graphs**
+**15- Community Detection in Large Graphs** ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/rucci-community-detection.pdf))
 
 *Davide Rucci, 07/05/2021, 15:00-16:00*
 
@@ -160,7 +160,7 @@ We then move to graphlets, discussing a novel technique called push-out amortiza
 
 I will present the main ideas behind my research, showing how meta-priors could be used to improve the neural representations learned by machine learning models.
 
-**17- Low Resource Neural Machine Translation 21/05/2021** ([link](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3A16fe7003a71249fcb09ce27d353bc5b3%40thread.tacv2%2F1621587417386%3Fcontext%3D%257b%2522Tid%2522%253a%2522c7456b31-a220-47f5-be52-473828670aa1%2522%252c%2522Oid%2522%253a%2522f2fd2449-3fe1-4a22-92e3-32757a6b4104%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=92ee02a6-1bc9-4828-b3aa-caf368d95c18&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true))
+**17- Low Resource Neural Machine Translation 21/05/2021** ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/null.pdf))
 
 *Michele Resta, 21/05/2021, 15:00-16:00*
 
