@@ -169,22 +169,19 @@ In particular, the last decade has seen the widespread adoption of Deep Learning
 
 This seminar will provide an introduction to the field of Neural Machine Translation and one of its open problems: how can we learn a translation model when we have little to no data?
 
-**18- Domenico Tortorella 28/05/2021** ([link](https://teams.microsoft.com/l/meetup-join/19%3a233d061d89f6473fa7909223eafd6c1d%40thread.tacv2/1621669185368?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
+**18- Invariance, equivariance, and inductive bias in deep learning** ([link](https://teams.microsoft.com/l/meetup-join/19%3a233d061d89f6473fa7909223eafd6c1d%40thread.tacv2/1621669185368?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
+
+*Domenico Tortorella, 28/05/2021, 15:00-16:00*
+
+Deep neural networks are able to learn from a huge amount of data tasks that are invariant with respect to transformations applied to the input, such as classifying translated or flipped images. This usually requires larger models, and data augmentation in order to provide enough data to obtain the desired behaviour. In this talk I will provide a brief introduction about how introduce directly as inductive bias in the model such symmetries via equivariant neural networks.
 
 **19- Andrea Pedrotti 04/06/2021** ([link](https://teams.microsoft.com/l/meetup-join/19%3a87e648866357462f8b5a2ee16e5b6907%40thread.tacv2/1621669460330?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
 
+*Andrea Pedrotti, 04/06/2021, 15:00-16:00*
+
 **20- Valerio De Caro 11/06/2021** ([link](https://teams.microsoft.com/l/meetup-join/19%3a3ba6e0b28fa4452fab01aecccd7efac1%40thread.tacv2/1621669701671?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
 
-## FAQ
-- **How long do the seminars last?**
-Seminars will be 1-hour long. Speakers are warmly invited to conclude their presentations in 40-45 minutes, in order to leave
-enough time for questions and discussions.
-
-- **How can I get credits for this seminar series?**
-In order to get credits, students need to attend at least 80% of the seminars as well as give one of them.
-
-- **I am a 2+ year PhD student in CS, can I give a seminar?**
-Yes, you can.
+*Valerio De Caro, 11/06/2021 15:00-16:00*
 
 ## Organizers
 Laura Bussi, Danilo Numeroso
