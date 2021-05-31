@@ -160,7 +160,7 @@ We then move to graphlets, discussing a novel technique called push-out amortiza
 
 I will present the main ideas behind my research, showing how meta-priors could be used to improve the neural representations learned by machine learning models.
 
-**17- Low Resource Neural Machine Translation 21/05/2021** ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/resta-low-resource-nmt.pdf))
+**17- Low Resource Neural Machine Translation** ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/resta-low-resource-nmt.pdf))
 
 *Michele Resta, 21/05/2021, 15:00-16:00*
 
