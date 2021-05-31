@@ -96,7 +96,7 @@ This talk will serve as introduction to the problem of interpretability
 of deep neural networks, with an emphasis on deep learning for structured
 data. The seminar also overviews some related work in the field to date.
 
-**10- Drug repurposing for COVID-19 through Deep Graph Networks** ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/null.pdf)))
+**10- Drug repurposing for COVID-19 through Deep Graph Networks** ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/null.pdf))
 
 *Alessio Gravina, 19/03/2021, 15:00-16:00*
 
@@ -127,7 +127,7 @@ Our experiments conducted on an open dataset show that STS-EPR, overall, outperf
 We further investigate the impact of tile shape and granularity of the spatial tessellation on the performance of our model.
 STS-EPR, which is open-source and tested on open data, represents a step towards the design of a mechanistic model that can capture all the aspects of human mobility comprehensively.
 
-**13- Compressing and indexing using a learned approach** ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/null.pdf)))
+**13- Compressing and indexing using a learned approach** ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/null.pdf))
 
 *Antonio Boffa, 16/04/2021, 15:00-16:00*
 
@@ -160,7 +160,7 @@ We then move to graphlets, discussing a novel technique called push-out amortiza
 
 I will present the main ideas behind my research, showing how meta-priors could be used to improve the neural representations learned by machine learning models.
 
-**17- Low Resource Neural Machine Translation 21/05/2021** ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/null.pdf))
+**17- Low Resource Neural Machine Translation 21/05/2021** ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/resta-low-resource-nmt.pdf))
 
 *Michele Resta, 21/05/2021, 15:00-16:00*
 
