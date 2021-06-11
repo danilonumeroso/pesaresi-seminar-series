@@ -186,5 +186,7 @@ In this talk, we discuss the principal characteristics of the discipline (TL) fo
 
 *Valerio De Caro, 11/06/2021 15:00-16:00*
 
+Current advances in Machine Learning (ML), in particular with the advent of Deep Learning (DL), have achieved unprecedented impact across research communities and industry, allowing to solve problems with an outstanding degree of precision. Nevertheless, performing tasks with the subsymbolic approach typical of ML shows its flaws when dealing with problems which involve variable grounding, compositionality and combinatorial reasoning. Instead, a long-standing research on symbolic representation of knowledge showed nice and elegant solutions to solve such problems. In this seminar, I will provide a high-level point of view on Neurosymbolic AI: a research area which aims to take and combine the best of the symbolic and subsymbolic worlds.
+
 ## Organizers
 Laura Bussi, Danilo Numeroso
