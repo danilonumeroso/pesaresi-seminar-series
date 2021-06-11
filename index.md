@@ -182,7 +182,7 @@ Deep neural networks are able to learn from a huge amount of data tasks that are
 Transfer Learning (TL) is a research area of Machine Learning (ML) which aims to reuse previously available data effectively for a different scenario where the task, domain, and distribution is different from the previous ones. Methods of TL can be profitably deployed in many and different fields, ranging from computer vision to natural language processing.
 In this talk, we discuss the principal characteristics of the discipline (TL) focusing on its synergies with the Cross-Lingual scenario. We will also focus on some cross-lingual resources that are leveraged by Genralized Funnelling, an algorithm developed for transfer learning, in order to successfully deal with the task of Cross-Lingual Text Classification.
 
-**20- Valerio De Caro 11/06/2021** ([link](https://teams.microsoft.com/l/meetup-join/19%3a3ba6e0b28fa4452fab01aecccd7efac1%40thread.tacv2/1621669701671?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
+**20- Neurosymbolic AI: integrating symbolic and subsymbolic knowledge** ([link](https://teams.microsoft.com/l/meetup-join/19%3a3ba6e0b28fa4452fab01aecccd7efac1%40thread.tacv2/1621669701671?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
 
 *Valerio De Caro, 11/06/2021 15:00-16:00*
 
