@@ -96,7 +96,7 @@ This talk will serve as introduction to the problem of interpretability
 of deep neural networks, with an emphasis on deep learning for structured
 data. The seminar also overviews some related work in the field to date.
 
-**10- Drug repurposing for COVID-19 through Deep Graph Networks** ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/null.pdf)))
+**10- Drug repurposing for COVID-19 through Deep Graph Networks** ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/null.pdf))
 
 *Alessio Gravina, 19/03/2021, 15:00-16:00*
 
@@ -127,7 +127,7 @@ Our experiments conducted on an open dataset show that STS-EPR, overall, outperf
 We further investigate the impact of tile shape and granularity of the spatial tessellation on the performance of our model.
 STS-EPR, which is open-source and tested on open data, represents a step towards the design of a mechanistic model that can capture all the aspects of human mobility comprehensively.
 
-**13- Compressing and indexing using a learned approach** ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/null.pdf)))
+**13- Compressing and indexing using a learned approach** ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/null.pdf))
 
 *Antonio Boffa, 16/04/2021, 15:00-16:00*
 
@@ -160,7 +160,7 @@ We then move to graphlets, discussing a novel technique called push-out amortiza
 
 I will present the main ideas behind my research, showing how meta-priors could be used to improve the neural representations learned by machine learning models.
 
-**17- Low Resource Neural Machine Translation 21/05/2021** ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/null.pdf))
+**17- Low Resource Neural Machine Translation** ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/resta-low-resource-nmt.pdf))
 
 *Michele Resta, 21/05/2021, 15:00-16:00*
 
@@ -169,19 +169,24 @@ In particular, the last decade has seen the widespread adoption of Deep Learning
 
 This seminar will provide an introduction to the field of Neural Machine Translation and one of its open problems: how can we learn a translation model when we have little to no data?
 
-**18- Invariance, equivariance, and inductive bias in deep learning** ([link](https://teams.microsoft.com/l/meetup-join/19%3a233d061d89f6473fa7909223eafd6c1d%40thread.tacv2/1621669185368?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
+**18- Invariance, equivariance, and inductive bias in deep learning** ([presentation](https://danilonumeroso.github.io/pesaresi-seminar-series/slides/tortorella-equivariance-deep-learning.pdf))
 
 *Domenico Tortorella, 28/05/2021, 15:00-16:00*
 
 Deep neural networks are able to learn from a huge amount of data tasks that are invariant with respect to transformations applied to the input, such as classifying translated or flipped images. This usually requires larger models, and data augmentation in order to provide enough data to obtain the desired behaviour. In this talk I will provide a brief introduction about how introduce directly as inductive bias in the model such symmetries via equivariant neural networks.
 
-**19- Andrea Pedrotti 04/06/2021** ([link](https://teams.microsoft.com/l/meetup-join/19%3a87e648866357462f8b5a2ee16e5b6907%40thread.tacv2/1621669460330?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
+**19- Transfer Learning for Cross-Lingual Text Classification** ([link](https://teams.microsoft.com/l/meetup-join/19%3a87e648866357462f8b5a2ee16e5b6907%40thread.tacv2/1621669460330?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
 
 *Andrea Pedrotti, 04/06/2021, 15:00-16:00*
 
-**20- Valerio De Caro 11/06/2021** ([link](https://teams.microsoft.com/l/meetup-join/19%3a3ba6e0b28fa4452fab01aecccd7efac1%40thread.tacv2/1621669701671?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
+Transfer Learning (TL) is a research area of Machine Learning (ML) which aims to reuse previously available data effectively for a different scenario where the task, domain, and distribution is different from the previous ones. Methods of TL can be profitably deployed in many and different fields, ranging from computer vision to natural language processing.
+In this talk, we discuss the principal characteristics of the discipline (TL) focusing on its synergies with the Cross-Lingual scenario. We will also focus on some cross-lingual resources that are leveraged by Genralized Funnelling, an algorithm developed for transfer learning, in order to successfully deal with the task of Cross-Lingual Text Classification.
+
+**20- Neurosymbolic AI: integrating symbolic and subsymbolic knowledge** ([link](https://teams.microsoft.com/l/meetup-join/19%3a3ba6e0b28fa4452fab01aecccd7efac1%40thread.tacv2/1621669701671?context=%7b%22Tid%22%3a%22c7456b31-a220-47f5-be52-473828670aa1%22%2c%22Oid%22%3a%22f2fd2449-3fe1-4a22-92e3-32757a6b4104%22%7d))
 
 *Valerio De Caro, 11/06/2021 15:00-16:00*
+
+Current advances in Machine Learning (ML), in particular with the advent of Deep Learning (DL), have achieved unprecedented impact across research communities and industry, allowing to solve problems with an outstanding degree of precision. Nevertheless, performing tasks with the subsymbolic approach typical of ML shows its flaws when dealing with problems which involve variable grounding, compositionality and combinatorial reasoning. Instead, a long-standing research on symbolic representation of knowledge showed nice and elegant solutions to solve such problems. In this seminar, I will provide a high-level point of view on Neurosymbolic AI: a research area which aims to take and combine the best of the symbolic and subsymbolic worlds.
 
 ## Organizers
 Laura Bussi, Danilo Numeroso
